@@ -1,1 +1,7 @@
-# Educational-Attainment-of-Foster-Youth
+# Educational Attainment of Foster Youth
+
+According to the National Data Archive on Child Abuse and Neglect (NDACAN), each year, about 10% of children who exit foster care are discharged each year due to having reached the states age limit for eligibility. These children are at increased risk of unemployment, criminal conviction, substance abuse, lower educational attainment, homelessness, and poor mental health in adulthood (Child Abuse and Neglect, 2011). A positive K-12 education experience has the potential to be a powerful counterweight to the abuse, neglect, separation, impermanence and other barriers these vulnerable children experience.
+
+Participation in and persistence to a postsecondary credential can enhance the foster youths well-being, help them make more successful transitions to adulthood, and increase their chances for personal fulfillment and economic self-sufficiency. National research shows that children in foster care are at high risk of dropping out of school and are unlikely to attend or graduate from college. My analysis is intended to help look into the services provided by the Chafee Act and determine whether this support is enough to improve the educational outcomes for foster youth.
+
+The John H. Chafee Foster Care Independence Act of 1999 provided states with flexible funding intended to serve youth at risk of exiting foster care without permanency, and required that states track the services received by youth as well as youth outcomes. The data system developed to meet this requirement is referred to as National Youth in Transition Database (NYTD).
